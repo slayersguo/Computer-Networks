@@ -3,9 +3,9 @@
 Establishes a simple Webserver written in C++.
 
 To run:
-- Download file Webserver.cpp
+- Download files: Webserver.cpp & Makefile
 - Open terminal
-- Navigate to the directory Webserver.cpp is in
+- Navigate to the directory Webserver.cpp/Makefile are in
 - Run command: 'make' in terminal
 - Run command: ./webserver
 - Open another terminal/tab in terminal
